@@ -55,7 +55,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "Welkom bij ZieMij&nbsp;<br>",
           "text": "<br>Dé App die jou helpt met moeilijke brieven!<br><br>",
@@ -88,7 +88,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Hoe werkt het?&nbsp;",
-          "text": "<i>Bijgaand vindt u een addendum welke georganiseerd is voor het bewerkstelligen van uw loonbelastingaangifte alsmede uw zorgtoeslagaanvraag voor het restant van het lopende jaar.&nbsp;</i><br><br>We krijgen ze allemaal, die lange brieven met die dure woorden. Wat bedoelen ze er nou mee en waarom krijg ik dit! Veel van die brieven eindigen in een schoenendoos of zelfs in de prullenbak. Met alle gevolgen van dien. \n<br>\n<br>De ZieMij app is er om jou te helpen! Als een brief bij jou op de mat komt open je de app en maak je er gewoon een foto van. Wij filteren de acties, zetten deze in je To Do list en helpen je deze uit te voeren. \n<br>\n<br>&nbsp;&nbsp;<br>\n<br><br>",
+          "text": "<i>Bijgaand vindt u een addendum welke georganiseerd is voor het bewerkstelligen van uw loonbelastingaangifte alsmede uw zorgtoeslagaanvraag voor het restant van het lopende jaar. &nbsp;</i><br><br>Bent u er nog?.. &nbsp; We krijgen ze allemaal, die lange brieven met die dure woorden. Wat bedoelen ze er nou mee en waarom krijg ik dit! Veel van die brieven eindigen in een schoenendoos of zelfs in de prullenbak. Met alle gevolgen van dien. \n<br>\n<br>De ZieMij app is er om jou te helpen! Als een brief bij jou op de mat komt open je de app en maak je er gewoon een foto van. Wij filteren de acties, zetten deze in je To Do list en helpen je deze uit te voeren. \n<br>\n<br>&nbsp;&nbsp;<br>\n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Thema"
